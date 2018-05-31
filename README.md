@@ -9,7 +9,7 @@ Create a GraphQL HTTP server with any HTTP web framework that supports connect s
 ## Installation
 
 ```sh
-npm install --save express-graphql
+npm install --save express-graphql-subscriptions
 ```
 
 
