@@ -1,3 +1,9 @@
+## Disclaimer
+
+I'm not maintaining this project and I'll remove it once the subscriptions feature pull request is merged. Same goes for the npm package.
+
+[express-graphql-subscriptions - npm](https://www.npmjs.com/package/express-graphql-subscriptions)
+
 GraphQL HTTP Server Middleware
 ==============================
 
