@@ -1,5 +1,5 @@
 {
-  "name": "express-graphql-subscriptions",
+  "name": "express-graphql",
   "version": "0.6.12",
   "description": "Production ready GraphQL HTTP middleware.",
   "license": "BSD-3-Clause",
